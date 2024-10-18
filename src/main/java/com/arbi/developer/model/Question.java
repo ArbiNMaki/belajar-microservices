@@ -1,4 +1,4 @@
-package com.arbi.developer;
+package com.arbi.developer.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
