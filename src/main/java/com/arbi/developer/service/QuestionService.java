@@ -1,6 +1,6 @@
 package com.arbi.developer.service;
 
-import com.arbi.developer.Question;
+import com.arbi.developer.model.Question;
 import com.arbi.developer.dao.QuestionDao;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

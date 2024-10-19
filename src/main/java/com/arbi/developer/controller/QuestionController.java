@@ -1,9 +1,8 @@
 package com.arbi.developer.controller;
 
-import com.arbi.developer.Question;
+import com.arbi.developer.model.Question;
 import com.arbi.developer.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
